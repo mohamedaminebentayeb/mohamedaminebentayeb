@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm interested in **Mobile dev** & **ML** 
 
-- 👨‍💻 All of my projects are available at [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
+- 👨‍💻 All of my projects are available  [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@amine272)
 
