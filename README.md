@@ -53,7 +53,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen311&label=Profile%20views&color=0e75b6&style=flat" alt="aymen311" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaminebentayeb" alt="mohamedaminebentayeb" /></a> </p>
 
  <a  href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminebentayeb&theme=radical) 
