@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deepl learning**
 
-- 👨‍💻 I'm interested in ** Mobile dev ** & ** ML ** 
+- 👨‍💻 I'm interested in **Mobile dev** & **ML** 
 
 - 👨‍💻 All of my projects are available at [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
 
