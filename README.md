@@ -16,7 +16,10 @@
 
 - 📫 How to reach me **jm_bentayeb@esi.dz**
 
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1Fhs0n1zhh27AxwzuRGG-Bog7ETxWGPX3/view?usp=sharing)
+
 - ⚡ Fun fact **I love football**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +53,7 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen311&label=Profile%20views&color=0e75b6&style=flat" alt="aymen311" /> </p>
 
  <a  href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminebentayeb&theme=radical) 
