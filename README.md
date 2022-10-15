@@ -52,7 +52,7 @@
 <br>
 
 
- <a href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+ <a  align="left" href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminebentayeb&theme=radical) 
 
 <!---
