@@ -3,9 +3,10 @@
 <h3 align="center">MObile developer & computer science engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaminebentayeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaminebentayeb" /> </p>
-- 🌱 I’m interested in  **mobile developpement ** & ** Machine Learning **
 
 - 🌱 I’m currently learning **Deepl learning**
+
+- 👨‍💻 I'm interested in ** Mobile dev ** & ** ML ** 
 
 - 👨‍💻 All of my projects are available at [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
 
