@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Deepl learning**
 
-- 👨‍💻 All of my projects are available at [https://mohamedaminebentayeb.github.io/Portfolio/index.html](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://mohamedaminebentayeb.github.io/Portfolio/index.html](here)
 
-- 📝 I regularly write articles on [https://hashnode.com/@amine272](https://hashnode.com/@amine272)
+- 📝 I regularly write articles on [https://hashnode.com/@amine272](hashnode)
 
 - 💬 Ask me about **all about maths , Flutter , football**
 
