@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@amine272)
 
-- 💬 Ask me about **all about maths , Flutter , football**
+- 💬 Ask me about **maths , Flutter , football**
 
 - 📫 How to reach me **jm_bentayeb@esi.dz**
 
