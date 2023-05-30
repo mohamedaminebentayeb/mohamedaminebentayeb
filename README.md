@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available  [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@amine272)
-
 - 💬 Ask me about **maths , Flutter , football**
 
 - 📫 How to reach me **jm_bentayeb@esi.dz**
