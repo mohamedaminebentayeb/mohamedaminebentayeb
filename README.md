@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available  [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
 
-- 💬 Ask me about **maths , Flutter , football**
+- 💬 Ask me about **maths , football**
 
 - 📫 How to reach me **jm_bentayeb@esi.dz**
 
