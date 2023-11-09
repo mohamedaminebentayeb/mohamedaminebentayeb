@@ -54,7 +54,6 @@
 
  <a  href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminebentayeb&theme=radical) 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaminebentayeb" alt="mohamedaminebentayeb" /></a> </p>
 
 <!---
 mohamedaminebentayeb/mohamedaminebentayeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
