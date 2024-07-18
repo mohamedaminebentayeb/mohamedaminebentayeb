@@ -8,9 +8,7 @@
 
 - 👨‍💻 I'm interested in **AI** 
 
-- 👨‍💻 All of my projects are available  [here](https://mohamedaminebentayeb.github.io/Portfolio/index.html)
-
-- 💬 Ask me about **maths , football**
+- 💬 Ask me about **maths , football , AI**
 
 - 📫 How to reach me **jm_bentayeb@esi.dz**
 
