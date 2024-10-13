@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jm_bentayeb@esi.dz**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/19fet2TYij_bwr3VFAFHinfG9-pEAgYM5/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1mg_0mWbkA0harJmYO9gNzRsWBTWNexLW/view?usp=sharing)
 
 - ⚡ Fun fact **I love football**
 
