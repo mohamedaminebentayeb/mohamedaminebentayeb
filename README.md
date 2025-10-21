@@ -1,58 +1,80 @@
-
-- <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm mohamed amine BEN TAYEB</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Mohamed Amine BEN TAYEB</h1>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaminebentayeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaminebentayeb" /> </p>
 
-- 🌱I'm currently learning and working at [Tetra](https://github.com/TETRA-2023/).
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mohamedaminebentayeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaminebentayeb" /> 
+</p>
 
-- 👨‍💻 I'm interested in **AI** 
+---
 
-- 💬 Ask me about **maths , football , AI**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **jm_bentayeb@esi.dz**
+- 🎓 **AI Engineer at [TETRA](https://github.com/TETRA-2023/)** in Paris, France  
+- 🎓 Master's degree in **Machine Learning for Data Science (AMSD)** from *Université Paris Cité*  
+- 🧠 Passionate about **Artificial Intelligence**, **LLMs**, and **Optimization in Machine Learning**
+- 🔭 Currently working on **personalization algorithms**, and **intelligent systems**
+- 💬 Ask me about **AI, data science, optimization, or football!**
+- 📫 Reach me at **jm_bentayeb [at] esi [dot] dz**
+- 📄 [My Resume](https://drive.google.com/file/d/10P6O_LSS7mRpPD7TAsYnpLpWjJMYBHXo/view?usp=sharing)
+- ⚡ Fun fact: **I love football and mentoring developers at GDG Algiers**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10P6O_LSS7mRpPD7TAsYnpLpWjJMYBHXo/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I love football**
+### 🌐 Connect with me
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/mohamedamine-bentayeb/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/mohamedaminebentayeb" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+</p>
 
-<a href="https://www.linkedin.com/in/mohamedamine-bentayeb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedamine-bentayeb-a701141bb/" height="30" width="40" /></a>
+---
 
+### 🛠️ Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a> <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  
-  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+</p>
 
+---
 
-<img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
- </a>
-<a> <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+### 📊 GitHub Stats
 
+<a href="https://github.com/mohamedaminebentayeb">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width="45%"/>
+</a>
+<a href="https://github.com/mohamedaminebentayeb">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaminebentayeb&theme=radical&show_icons=true" width="50%"/>
+</a>
 
+---
 
+### 🧩 Highlights
 
+- 🧑‍🏫 **GitHub Campus Expert** (2024–Present)  
+- 👨‍🏫 **Firebase & Flutter Mentor** at **GDG Algiers**  
+- 🎯 Experienced in **LLMs, RAG systems, NLP, and Deep Learning**  
+- 🧩 Passionate about **open-source**, **education**, and **innovation**
 
+---
 
-
-
-
-
- 
- </p>
-
-
-
-
- <a  href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminebentayeb&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminebentayeb&theme=radical) 
+> “Building intelligent, scalable, and impactful AI solutions.”
 
 <!---
-mohamedaminebentayeb/mohamedaminebentayeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+mohamedaminebentayeb/mohamedaminebentayeb is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
