@@ -16,7 +16,7 @@
 - 🔭 Currently working on **personalization algorithms**, and **intelligent systems**
 - 💬 Ask me about **AI, data science, optimization, or football!**
 - 📫 Reach me at **jm_bentayeb [at] esi [dot] dz**
-- 📄 [My Resume](https://drive.google.com/file/d/10P6O_LSS7mRpPD7TAsYnpLpWjJMYBHXo/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10P6O_LSS7mRpPD7TAsYnpLpWjJMYBHXo/view?usp=sharing)
 - ⚡ Fun fact: **I love football and mentoring developers at GDG Algiers**
 
 ---
