@@ -13,7 +13,7 @@
 - 🎓 **AI Engineer at [TETRA](https://github.com/TETRA-2023/)** in Paris, France  
 - 🎓 Master's degree in **Machine Learning for Data Science (AMSD)** from *Université Paris Cité*  
 - 🧠 Passionate about **Artificial Intelligence**, **LLMs**, and **Optimization in Machine Learning**
-- 🔭 Currently working on **RAG-based chatbots**, **personalization algorithms**, and **intelligent systems**
+- 🔭 Currently working on **personalization algorithms**, and **intelligent systems**
 - 💬 Ask me about **AI, data science, optimization, or football!**
 - 📫 Reach me at **jm_bentayeb [at] esi [dot] dz**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10P6O_LSS7mRpPD7TAsYnpLpWjJMYBHXo/view?usp=sharing)
