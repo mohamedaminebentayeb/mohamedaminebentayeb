@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **AI Engineer at [TETRA](https://github.com/TETRA-2023/)** in Paris, France  
+- 🎓 **Data scientist at [TETRA](https://github.com/TETRA-2023/)** in Paris, France  
 - 🎓 Master's degree in **Machine Learning for Data Science (AMSD)** from *Université Paris Cité*  
 - 🧠 Passionate about **Artificial Intelligence**, **LLMs**, and **Optimization in Machine Learning**
 - 🔭 Currently working on **personalization algorithms**, and **intelligent systems**
