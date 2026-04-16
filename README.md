@@ -66,8 +66,6 @@
 
 ### 🧩 Highlights
 
-- 🧑‍🏫 **GitHub Campus Expert** (2024–Present)  
-- 👨‍🏫 **Firebase & Flutter Mentor** at **GDG Algiers**  
 - 🧑‍🏫 **GitHub Campus Expert**  
 - 🎯 Experienced in **LLMs, RAG systems, NLP, and Deep Learning**  
 - 🧩 Passionate about **open-source**, **education**, and **innovation**
