@@ -12,7 +12,6 @@
 - 🧠 Passionate about **Artificial Intelligence**, **LLMs**, and **Optimization in Machine Learning**
 - 🔭 Currently working on **personalization algorithms**, and **intelligent systems**
 - 💬 Ask me about **AI, optimization, or football!**
-- 📫 Reach me at **jm_bentayeb [at] esi [dot] dz**
 - 📄 Know about my experiences: 
   <a href="https://drive.google.com/file/d/13473ap3XqNNOw6BW2DQmlbqBLDDVFvtw/view?usp=sharing" target="_blank">
     Resume
