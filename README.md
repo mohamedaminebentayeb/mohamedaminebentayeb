@@ -19,7 +19,7 @@
   </a>
 - ⚡ Fun fact: **I love football**
 
----
+
 
 ### 🌐 Connect with me
 
@@ -29,7 +29,7 @@
 
 </p>
 
----
+
 
 
 ### 🧩 Highlights
